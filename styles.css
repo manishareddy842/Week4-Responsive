@@ -1,0 +1,52 @@
+.some h2 {
+    font: Poppins;
+    font-size: 36px;
+    font-style: Bold;
+}
+
+.some h1 {
+    font: "Playfair Display";
+    font-size: 96px;
+    font-style: Bold;
+}
+
+.some {
+    text-align: center;
+    background-color: #F9F7FE;
+    padding: 160px;
+}
+
+.some p {
+    font: Poppins;
+    font-size: 24px;
+    font-style: Regular;
+}
+
+.btn btn-primary {
+    padding: 18px, 30px, 18px, 30px;
+    font: Poppins;
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+h4 {
+    font: Poppins;
+    font-size: 18px;
+    font-style: Regular;
+    color: #272142;
+    text-align: center;
+
+}
+
+.appTo {
+    font: Playfair Display;
+    font-size: 64px;
+    font-style: Bold;
+}
+
+.original {
+    color: rgba(39, 33, 66, 0.7)sss;
+    font: Poppins;
+    font-size: 16px;
+    font-style: Regular;
+}
