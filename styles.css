@@ -51,6 +51,12 @@ h4 {
     font-style: Regular;
 }
 @media (max-width:600px){
+    .some h1{
+        font-size: 45px;
+    }
+    .some{
     padding:20px 80px;
+}
+
 }
     
